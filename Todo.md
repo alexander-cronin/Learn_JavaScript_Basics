@@ -6,7 +6,7 @@
 * [X] Complete 'JavaScript/VARIABLES.js'
 * [X] Complete 'JavaScript/BOOLEANS.js
 * [X] Complete 'JavaScript/STRINGS.js'
-* [ ] Complete 'JavaScript/NUMBERS.js'
+* [X] Complete 'JavaScript/NUMBERS.js'
 * [ ] Complete 'JavaScript/OPERATORS.js'
 * [ ] Complete 'JavaScript/CONDITIONALS.js'
 * [ ] Complete 'JavaScript/OBJECTS.js'
